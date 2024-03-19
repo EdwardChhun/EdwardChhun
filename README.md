@@ -4,7 +4,7 @@ Hi 👋 My name is Edward Chhun
 Data Science / Software Developer
 ---------------------------------
 
-I'm interested in learning how I can implement technology into our everyday lives to make living more interesting and fun. I love mathematics, algorithms, and data analysis of stock exchanges and cryptocurrencies. I am currently a Freshman majoring in Computer Science. I started to learn programming with Python in early 2021 and I have grown an interest in programming ever since.
+I'm interested in learning how I can implement technology into our everyday lives to make living more interesting and fun. I love mathematics, artificial intelligence, algorithms, and data analysis of stock exchanges and cryptocurrencies. I am currently a Freshman majoring in Computer Science. I started to learn programming with Python in early 2021 and I have grown an interest in programming ever since.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [Edwardchhun3@gmail.com](mailto:Edwardchhun3@gmail.com)
