@@ -8,7 +8,7 @@ I'm interested in learning how I can implement technology into our everyday live
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [Edwardchhun3@gmail.com](mailto:Edwardchhun3@gmail.com)
-* 🚀  I'm currently working on [Fractal Generator App](http://github.com/EdwardChhun/Fractal-Generator-Project)
+* 🚀  I'm currently picking up on AI with [CS50AI](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
 * 🧠  I'm learning C/C++ , SQL, Flask, Data Structure & Algorithms
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I enjoy powerlifting, tennis, badminton, and Korean BBQ
