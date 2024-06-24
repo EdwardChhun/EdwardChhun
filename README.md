@@ -1,7 +1,7 @@
 Hi 👋 My name is Edward Chhun
 =============================
 
-Data Science / Software Developer
+Software Developer / Hackathon Enjoyer
 ---------------------------------
 
 I'm currently contributing to open source projects. Interested in learning how I can implement technology into our everyday lives to make living more interesting and fun. I love web scraping, automation, mathematics, artificial intelligence, algorithms, and data analysis of stock exchanges and cryptocurrencies. I am currently a Freshman majoring in Computer Science. I started to learn programming with Python in early 2021 and I have grown an interest in programming ever since.
@@ -13,8 +13,16 @@ I'm currently contributing to open source projects. Interested in learning how I
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I enjoy hackathons, competitive programming, powerlifting, tennis, badminton, and AYCE Buffets
 
-### Recent Hackathon Project (Good-Neighbor)
+### Recent Hackathon Projects
+
+(TheraAI)
+[UC BERKELEY AI HACKATHON "24](https://github.com/EdwardChhun/TheraAI)
+
+(Good-Neighbor)
 [HACKDAVIS "24](https://github.com/Saitarun994/Good-Neighbor)
+
+(One-Tap)
+[UBER HACKATHON "23](https://github.com/EdwardChhun/Uber-Hackathon-Project)
 
 ### Skills
 
