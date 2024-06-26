@@ -24,6 +24,8 @@ I'm currently contributing to open source projects. Interested in learning how I
 (One-Tap)
 [UBER HACKATHON "23](https://github.com/EdwardChhun/Uber-Hackathon-Project)
 
+![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardchhun&show_icons=true&theme=radical)
+
 ### Skills
 
 <p align="left">
