@@ -13,7 +13,10 @@ I'm currently contributing to open source projects. Interested in learning how I
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I enjoy hackathons, competitive programming, powerlifting, tennis, pingpong, badminton, and AYCE Buffets
 
-### Recent Hackathon Projects
+### Recent Projects
+
+(Carpool Native)
+[RIDESHARE APP SUMMER "24](https://github.com/jdsantelicesl/carpoolNative/tree/main)
 
 (TheraAI)
 [UC BERKELEY AI HACKATHON "24](https://github.com/EdwardChhun/TheraAI)
