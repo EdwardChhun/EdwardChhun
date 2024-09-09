@@ -4,14 +4,13 @@ Hi 👋 My name is Edward Chhun
 Software Developer / Hackathon Enjoyer
 ---------------------------------
 
-I'm currently contributing to open source projects. Interested in learning how I can implement technology into our everyday lives to make living more interesting and fun. I love web scraping, automation, mathematics, artificial intelligence, algorithms, and data analysis of stock exchanges and cryptocurrencies. I am currently a Freshman majoring in Computer Science. I started to learn programming with Python in early 2021 and I have grown an interest in programming ever since.
+I'm currently contributing to open-source projects. Interested in learning how I can implement technology into our everyday lives to make living more interesting and fun. I love full-stack development, web and mobile app development, web scraping, automation, mathematics, artificial intelligence, and data structures and algorithms. I am currently a Sophomore majoring in Computer Science and have loved it ever since.
 
-* 🌍  I'm based in California
 * ✉️  You can contact me at [Edwardchhun3@gmail.com](mailto:Edwardchhun3@gmail.com)
+* 🧠  I'm doing Full Stack Development with Data Structure & Algorithms
 * 🚀  I'm currently picking up on AI with projects and [CS50AI](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
-* 🧠  I'm learning Full Stack Development and Data Structure & Algorithms
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I enjoy hackathons, competitive programming, powerlifting, tennis, pingpong, badminton, and AYCE Buffets
+* ⚡  I enjoy hackathons, competitive programming, powerlifting, tennis, ping-pong, badminton, and Korean BBQ
 
 ### Recent Projects
 
