@@ -15,7 +15,7 @@ I'm currently contributing to many large-scale projects. Interested in learning 
 ### Recent Projects
 
 (Carpool Native)
-[RIDESHARE APP SUMMER "24](https://github.com/jdsantelicesl/carpoolNative/tree/main)
+[RIDESHARE APP SUMMER "24](https://github.com/EdwardChhun/carpoolNative/tree/main)
 
 (TheraAI)
 [UC BERKELEY AI HACKATHON "24](https://github.com/EdwardChhun/TheraAI)
