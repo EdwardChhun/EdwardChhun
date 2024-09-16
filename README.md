@@ -21,7 +21,7 @@ I'm currently contributing to many large-scale projects. Interested in learning 
 [UC BERKELEY AI HACKATHON "24](https://github.com/EdwardChhun/TheraAI)
 
 (Good-Neighbor)
-[HACKDAVIS "24](https://github.com/Saitarun994/Good-Neighbor)
+[HACKDAVIS "24](https://github.com/EdwardChhun/Good-Neighbor/tree/main)
 
 (One-Tap)
 [UBER HACKATHON "23](https://github.com/EdwardChhun/Uber-Hackathon-Project)
