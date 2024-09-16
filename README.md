@@ -26,7 +26,10 @@ I'm currently contributing to many large-scale projects. Interested in learning 
 (One-Tap)
 [UBER HACKATHON "23](https://github.com/EdwardChhun/Uber-Hackathon-Project)
 
-![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardchhun&show_icons=true&theme=radical)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=edwardchhun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardchhun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <img src="https://raw.githubusercontent.com/edwardchhun/edwardchhun/output/snake.svg" alt="Snake animation" />
 
