@@ -1,19 +1,17 @@
 Hi 👋 My name is Edward Chhun
 =============================
 
-Full-Stack Developer / Hackathon Addict
+Full-Stack Developer
 ---------------------------------
 
-I'm currently contributing to many large-scale projects. Interested in learning how I can implement technology into our everyday lives to make living more interesting and fun. I love full-stack development, web and mobile app development, web scraping, automation, mathematics, artificial intelligence, and data structures and algorithms. I am currently a Sophomore majoring in Computer Science and have loved it ever since.
+I'm currently contributing to many large-scale projects. Interested in learning how I can implement technology into our everyday lives to make living more interesting and fun. I love full-stack development, web and mobile app development, web scraping, automation, mathematics, artificial intelligence, and data structures and algorithms.
 
-* ✉️  You can contact me at [Edwardchhun3@gmail.com](mailto:Edwardchhun3@gmail.com)
-* 🧠  I'm doing Full Stack Development with Data Structure & Algorithms
-* 🚀  I'm currently picking up on AI with projects and [CS50AI](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
-* 🤝  I'm open to collaborating on interesting projects
+* ✉️  Contact me at [Edwardchhun3@gmail.com](mailto:Edwardchhun3@gmail.com)
+* 🧠  I'm doing Full Stack Development with Data Structures & Algorithms
+* 🤝  I'm open to collaborating on interesting projects of any size
 * ⚡  I enjoy hackathons, competitive programming, powerlifting, tennis, ping-pong, badminton, and Korean BBQ
 
 ### Recent Projects
-
 
 (Carpool Native)
 [RIDESHARE APP SUMMER "24](https://github.com/EdwardChhun/carpoolNative/tree/main)
