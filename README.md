@@ -1,4 +1,4 @@
-Hi 👋 My name is Edward Chhun
+Edward Chhun
 =============================
 
 Full-Stack Developer
