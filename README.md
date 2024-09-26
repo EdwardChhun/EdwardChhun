@@ -11,7 +11,7 @@ Interested in implementing technology, making life interesting and fun. I'm curr
 * 🤝 I'm open to collaborating on interesting projects of any size
 * ⚡ I enjoy hackathons, competitive programming, powerlifting, tennis, ping-pong, badminton, and Korean BBQ
 
-### Recent Projects
+## Recent Projects
 
 (Carpool Native)
 [RIDESHARE APP SUMMER "24](https://github.com/EdwardChhun/carpoolNative/tree/main)
