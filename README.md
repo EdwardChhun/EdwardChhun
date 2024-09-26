@@ -4,12 +4,12 @@ Edward Chhun
 Full-Stack Developer
 ---------------------------------
 
-I'm currently contributing to many large-scale projects. Interested in learning how I can implement technology into our everyday lives to make living more interesting and fun. I love full-stack development, web and mobile app development, web scraping, automation, linear algebra, calculus, artificial intelligence, and data structures & algorithms.
+Interested in implementing technology, making life interesting and fun. I'm currently contributing to many large-scale projects. 
 
 * ✉️  Contact me at [Edwardchhun3@gmail.com](mailto:Edwardchhun3@gmail.com)
-* 🧠  I'm doing Full-Stack / Web / App Development with Data Structures & Algorithms
-* 🤝  I'm open to collaborating on interesting projects of any size
-* ⚡  I enjoy hackathons, competitive programming, powerlifting, tennis, ping-pong, badminton, and Korean BBQ
+* 🧠 I'm doing Full-Stack / Web / App Development with Data Structures & Algorithms
+* 🤝 I'm open to collaborating on interesting projects of any size
+* ⚡ I enjoy hackathons, competitive programming, powerlifting, tennis, ping-pong, badminton, and Korean BBQ
 
 ### Recent Projects
 
