@@ -17,7 +17,7 @@ Interested in implementing technology, making life interesting and fun. I'm curr
 [RIDESHARE APP SUMMER "24](https://github.com/EdwardChhun/carpoolNative/tree/main)
 
 (MendPath)
-[DIVHACKS "24 | COLUMBIA UNIVERSITY](https://github.com/MendPath/MendPath)
+[DIVHACKS | COLUMBIA UNIVERSITY "24](https://github.com/MendPath/MendPath)
 
 (SeverityAI)
 [PENNAPPS XXI | UPENN HACKTHON "24](https://github.com/EdwardChhun/SeverityAI)
