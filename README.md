@@ -26,10 +26,10 @@ Interested in implementing technology, making life interesting and fun. I'm curr
 [UC BERKELEY AI HACKATHON "24](https://github.com/EdwardChhun/TheraAI)
 
 (Good-Neighbor)
-[HACKDAVIS "24](https://github.com/EdwardChhun/Good-Neighbor/tree/main)
+[HACKDAVIS | UC DAVIS HACKATHON "24](https://github.com/EdwardChhun/Good-Neighbor/tree/main)
 
 (One-Tap)
-[UBER HACKATHON "23](https://github.com/EdwardChhun/Uber-Hackathon-Project)
+[UBER HACKATHON | GLOBAL VIRTUAL HACKATHON "23](https://github.com/EdwardChhun/Uber-Hackathon-Project)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=edwardchhun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
