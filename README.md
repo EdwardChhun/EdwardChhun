@@ -9,7 +9,7 @@ Interested in implementing technology, making life interesting and fun. I'm curr
 * ✉️  Contact me at [Edwardchhun3@gmail.com](mailto:Edwardchhun3@gmail.com)
 * 🧠 I'm doing Full-Stack Development on Mobile/Web Apps with AI
 * 🤝 I'm open to collaborating on interesting projects of any size
-* ⚡ I enjoy hackathons, competitive programming, powerlifting, tennis, ping-pong, badminton, and Korean BBQ
+* ⚡ I enjoy hackathons, powerlifting, tennis, ping-pong, badminton, and Korean BBQ
 
 ## Recent Projects
 
