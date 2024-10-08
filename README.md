@@ -14,7 +14,7 @@ Interested in implementing technology, making life interesting and fun. I'm curr
 ## Recent Projects
 
 (Carpool Native)
-[RIDESHARE APP SUMMER "24](https://github.com/EdwardChhun/carpoolNative/tree/main)
+[RIDESHARE APP | SUMMER STARTUP "24](https://github.com/EdwardChhun/carpoolNative/tree/main)
 
 (MendPath)
 [DIVHACKS | COLUMBIA UNIVERSITY "24](https://github.com/MendPath/MendPath)
