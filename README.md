@@ -7,7 +7,7 @@ Full-Stack Developer
 Interested in implementing technology, making life interesting and fun. I'm currently contributing to many large-scale projects. 
 
 * ✉️  Contact me at [Edwardchhun3@gmail.com](mailto:Edwardchhun3@gmail.com)
-* 🧠 I'm doing Full-Stack Development on Mobile + Web Apps with Data Structures & Algorithms
+* 🧠 I'm doing Full-Stack Development on Mobile/Web Apps with AI
 * 🤝 I'm open to collaborating on interesting projects of any size
 * ⚡ I enjoy hackathons, competitive programming, powerlifting, tennis, ping-pong, badminton, and Korean BBQ
 
