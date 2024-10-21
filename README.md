@@ -16,6 +16,9 @@ Interested in implementing technology, making life interesting and fun. I'm curr
 (Carpool Native)
 [SUMMER STARTUP "24](https://github.com/EdwardChhun/carpoolNative/tree/main)
 
+(SmartBin)
+[CALHACKS 11.0| SAN FRANCISCO "24](https://github.com/jdsantelicesl/SmartBin/tree/main)
+
 (MendPath)
 [DIVHACKS | COLUMBIA UNIVERSITY "24](https://github.com/MendPath/MendPath)
 
