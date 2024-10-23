@@ -11,28 +11,18 @@ Interested in implementing technology, making life interesting and fun. I'm curr
 * 🤝 I'm open to collaborating on interesting projects of any size
 * ⚡ I enjoy hackathons, powerlifting, tennis, ping-pong, badminton, and Korean BBQ
 
-## Recent Projects
+## Projects
 
-(Carpool Native)
-[SUMMER STARTUP "24](https://github.com/EdwardChhun/carpoolNative/tree/main)
+| Project       | Event/Location                             | Description                                                   |
+|---------------|--------------------------------------------|---------------------------------------------------------------|
+| [Carpool Native](https://github.com/EdwardChhun/carpoolNative/tree/main)  | STARTUP                | An IOS mobile app for commuting college students to share rides. Powered by React Native and Expo on frontend. Flask, MongoDB, AWS on backend. |
+| [SmartBin](https://github.com/jdsantelicesl/SmartBin/tree/main)            | CALHACKS 11.0  SAN FRANCISCO "24  | SmartBin segregates recyclables, landfill and compost with a trained Computer Vision model. Using RaspberryPi 4B, Arduino Uno with Servos, and Yolov11n Object Detection model trained on 5000+ trash images. [Video Demo](https://www.youtube.com/watch?v=DUQ2zHv1NQs) |
+| [MendPath](https://github.com/MendPath/MendPath)                          | DIVHACKS COLUMBIA UNIVERSITY "24 | MendPath combines therapy, technology, and social connection in a way that fosters empathy, accountability, and mental health progress for users, filling a crucial gap in both personal well-being and community support.     |
+| [SeverityAI](https://github.com/EdwardChhun/SeverityAI)                  | PENNAPPS XXI UPENN HACKTHON "24  | AI tool for assessing the severity of medical conditions, based on urgency, reducing wait times and ensuring those who need immediate care in Emergency Room scenarios.      |
+| [TheraAI](https://github.com/EdwardChhun/TheraAI)                        | UC BERKELEY AI HACKATHON "24       | Using AI to assist the elderly, relating to health care centers and emotive detection. |
+| [Good-Neighbor](https://github.com/EdwardChhun/Good-Neighbor/tree/main)  | HACKDAVIS UC DAVIS HACKATHON "24  | A platform that gurantees the best chance for the owner to find not only valuables, but pets, and people. |
+| [One-Tap](https://github.com/EdwardChhun/Uber-Hackathon-Project)        | UBER GLOBAL VIRTUAL HACKATHON "23 | Developed by team "PENKwin" with the mission to bring inclusivity, and ease integration between public transits and rideshares.  |
 
-(SmartBin)
-[CALHACKS 11.0| SAN FRANCISCO "24](https://github.com/jdsantelicesl/SmartBin/tree/main)
-
-(MendPath)
-[DIVHACKS | COLUMBIA UNIVERSITY "24](https://github.com/MendPath/MendPath)
-
-(SeverityAI)
-[PENNAPPS XXI | UPENN HACKTHON "24](https://github.com/EdwardChhun/SeverityAI)
-
-(TheraAI)
-[UC BERKELEY AI HACKATHON "24](https://github.com/EdwardChhun/TheraAI)
-
-(Good-Neighbor)
-[HACKDAVIS | UC DAVIS HACKATHON "24](https://github.com/EdwardChhun/Good-Neighbor/tree/main)
-
-(One-Tap)
-[UBER HACKATHON | GLOBAL VIRTUAL HACKATHON "23](https://github.com/EdwardChhun/Uber-Hackathon-Project)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=edwardchhun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
