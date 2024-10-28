@@ -11,6 +11,13 @@ Interested in implementing technology, making life interesting and fun. I'm curr
 * 🤝 I'm open to collaborating on interesting projects of any size
 * ⚡ I enjoy hackathons, powerlifting, tennis, ping-pong, badminton, and Korean BBQ
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=edwardchhun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardchhun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/edwardchhun/edwardchhun/output/snake.svg" alt="Snake animation" />
+
 ## Projects
 
 | Project       | Event/Location                             | Description                                                   |
@@ -24,12 +31,6 @@ Interested in implementing technology, making life interesting and fun. I'm curr
 | [One-Tap](https://github.com/EdwardChhun/Uber-Hackathon-Project)        | UBER GLOBAL VIRTUAL HACKATHON "23 | Developed by team "PENKwin" with the mission to bring inclusivity, and ease integration between public transits and rideshares.  |
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwardchhun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardchhun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<img src="https://raw.githubusercontent.com/edwardchhun/edwardchhun/output/snake.svg" alt="Snake animation" />
 
 ## Skills
 
