@@ -1,7 +1,7 @@
 Edward Chhun [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardchhun3)
 =============================
 
-Full-Stack \ Machine Learning Developer
+Full-Stack Dev \ Machine Learning Enthusiast
 ---------------------------------
 
 Interested in implementing technology, making life interesting and fun. I'm currently contributing to many large-scale projects. 
